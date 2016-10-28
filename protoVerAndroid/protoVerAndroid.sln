@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C5238C38-2F4D-F233-1764-8094C421605A}") = "protoVerAndroid", "Assembly-CSharp.csproj", "{6DD1866F-2C10-C4F9-E8A4-280572D47F61}"
+EndProject
+Project("{C5238C38-2F4D-F233-1764-8094C421605A}") = "protoVerAndroid", "Assembly-CSharp-Editor.csproj", "{4A08C676-F3C2-5941-4553-921627195DE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD1866F-2C10-C4F9-E8A4-280572D47F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD1866F-2C10-C4F9-E8A4-280572D47F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD1866F-2C10-C4F9-E8A4-280572D47F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD1866F-2C10-C4F9-E8A4-280572D47F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A08C676-F3C2-5941-4553-921627195DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A08C676-F3C2-5941-4553-921627195DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A08C676-F3C2-5941-4553-921627195DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A08C676-F3C2-5941-4553-921627195DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
