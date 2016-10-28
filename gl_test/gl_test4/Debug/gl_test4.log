@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test4\소스.cpp(70): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  gl_test4.vcxproj -> C:\Users\kimsa\documents\visual studio 2015\Projects\gl_test\Debug\gl_test4.exe

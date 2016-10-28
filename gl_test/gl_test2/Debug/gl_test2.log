@@ -1,0 +1,12 @@
+﻿  소스.cpp
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(25): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(26): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(27): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(31): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(33): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(34): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(35): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(37): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(38): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\kimsa\documents\visual studio 2015\projects\gl_test\gl_test2\소스.cpp(39): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  gl_test2.vcxproj -> c:\users\kimsa\documents\visual studio 2015\Projects\gl_test\Debug\gl_test2.exe

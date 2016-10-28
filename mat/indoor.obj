@@ -1,0 +1,126 @@
+mtllib indoor.mtl
+g default
+v 0 0 0
+v 0 0 260
+v 0 280 0
+v 0 280 260
+v 205 280 0
+v 205 280 260
+v 205 340 0
+v 205 340 260
+v 840 340 0
+v 840 340 260
+v 840 370 0
+v 840 370 260
+v 1140 370 0
+v 1140 370 260
+v 1140 400 0
+v 1140 400 260
+v 1515 400 0
+v 1515 400 260
+v 1515 370 0
+v 1515 370 260
+v 1515 250 0
+v 1515 250 260
+v 2235 250 0
+v 2235 250 260
+v 2235 5 0
+v 2235 5 260
+v 1415 5 0
+v 1415 5 260
+v 1415 -430 0
+v 1415 -430 260
+v 1255 -430 0
+v 1255 -430 260
+v 1255 -180 0
+v 1255 -180 260
+v 850 -180 0
+v 850 -180 260
+v 850 20 0
+v 850 20 260
+v 795 20 0
+v 795 20 260
+v 795 0 0
+v 795 0 260
+v 0 0 0
+v 0 0 260
+v 0 400 0
+v 0 -430 0
+v 2235 -430 0
+v 2235 400 0
+v 0 400 260
+v 0 -430 260
+v 2235 -430 260
+v 2235 400 260
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0.2 0
+vt 0.2 1
+vn 0 0 1
+g surface0
+usemtl texture0
+f 2/2 1/1 3/4 4/3
+g surface1
+usemtl texture1
+f 4/2 3/1 5/4 6/3
+g surface2
+usemtl texture2
+f 6/2 5/1 7/4 8/3
+g surface3
+usemtl texture3
+f 8/2 7/1 9/4 10/3
+g surface4
+usemtl texture4
+f 10/2 9/1 11/4 12/3
+g surface5
+usemtl texture5
+f 12/2 11/1 13/4 14/3
+g surface6
+usemtl texture6
+f 14/2 13/1 15/4 16/3
+g surface7
+usemtl texture7
+f 16/2 15/1 17/4 18/3
+g surface8
+usemtl texture8
+f 18/2 17/1 19/5 20/6
+f 20/6 19/5 21/4 22/3
+g surface9
+usemtl texture9
+f 22/2 21/1 23/4 24/3
+g surface10
+usemtl texture10
+f 24/2 23/1 25/4 26/3
+g surface11
+usemtl texture11
+f 26/2 25/1 27/4 28/3
+g surface12
+usemtl texture12
+f 28/2 27/1 29/4 30/3
+g surface13
+usemtl texture13
+f 30/2 29/1 31/4 32/3
+g surface14
+usemtl texture14
+f 32/2 31/1 33/4 34/3
+g surface15
+usemtl texture15
+f 34/2 33/1 35/4 36/3
+g surface16
+usemtl texture16
+f 36/2 35/1 37/4 38/3
+g surface17
+usemtl texture3
+f 38/2 37/1 39/4 40/3
+f 40/2 39/1 41/4 42/3
+g surface18
+usemtl texture17
+f 42/2 41/1 43/4 44/3
+g surface19
+usemtl texture18
+f 45/2 46/1 47/4 48/3
+g surface20
+usemtl texture19
+f 49/2/1 50/1/1 51/4/1 52/3/1

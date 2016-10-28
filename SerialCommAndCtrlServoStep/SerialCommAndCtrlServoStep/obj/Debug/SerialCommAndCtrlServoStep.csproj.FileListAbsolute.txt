@@ -1,0 +1,9 @@
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\bin\Debug\SerialCommAndCtrlServoStep.exe.config
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\bin\Debug\SerialCommAndCtrlServoStep.exe
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\bin\Debug\SerialCommAndCtrlServoStep.pdb
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\obj\Debug\SerialCommAndCtrlServoStep.csprojResolveAssemblyReference.cache
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\obj\Debug\SerialCommAndCtrlServoStep.Form1.resources
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\obj\Debug\SerialCommAndCtrlServoStep.Properties.Resources.resources
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\obj\Debug\SerialCommAndCtrlServoStep.csproj.GenerateResource.Cache
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\obj\Debug\SerialCommAndCtrlServoStep.exe
+c:\users\kimsa\documents\visual studio 2015\Projects\SerialCommAndCtrlServoStep\SerialCommAndCtrlServoStep\obj\Debug\SerialCommAndCtrlServoStep.pdb

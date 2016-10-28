@@ -1,0 +1,8 @@
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\bin\Debug\test.exe.config
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\bin\Debug\test.exe
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\bin\Debug\test.pdb
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\obj\Debug\test.exe
+C:\Users\kimsa\Documents\Visual Studio 2015\Projects\SerialCommAndCtrlServoStep\test\obj\Debug\test.pdb
